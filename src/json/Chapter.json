@@ -1,0 +1,45 @@
+{
+  "chapter": {
+    "header": "CHAPTERS",
+    "title": "Chapters we've covered",
+    "img": "../../images/hero-2.png",
+    "faqItem":[
+      {
+        "id":1,
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum voluptas dicta fugiat animi voluptatum quibusdam?",
+        "showAnswer":false
+      },
+      {
+        "id":2,
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum voluptas dicta fugiat animi voluptatum quibusdam?",
+        "showAnswer":false
+      },
+      {
+        "id":3,
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum voluptas dicta fugiat animi voluptatum quibusdam?",
+        "showAnswer":false
+      },
+      {
+        "id":4,
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum voluptas dicta fugiat animi voluptatum quibusdam?",
+        "showAnswer":false
+      },
+      {
+        "id":5,
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum voluptas dicta fugiat animi voluptatum quibusdam?",
+        "showAnswer":false
+      },
+      {
+        "id":6,
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum voluptas dicta fugiat animi voluptatum quibusdam?",
+        "showAnswer":false
+      },
+      {
+        "id":7,
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum voluptas dicta fugiat animi voluptatum quibusdam?",
+        "showAnswer":false
+      }
+    ]
+     }
+
+}

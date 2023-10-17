@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,700;1,400&family=Poppins:ital,wght@0,300;0,400;0,600;0,700;0,900;1,500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    transition: 0.4s linear;
+}
+.nav-ani{
+    @apply relative md:hover:text-red-600 duration-75 hover:bg-red-400 md:hover:bg-transparent
+    /*transition ease-in delay-200 */
+
+}
+.nav-ani:before{
+    content: "";
+    @apply absolute top-6 left-1.5 bg-red-600 duration-700
+}
+.nav-ani:hover:before{
+    content: "";
+    @apply  top-7 h-0.5 md:w-10/12
+}
