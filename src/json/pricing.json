@@ -1,0 +1,32 @@
+{
+    "header":"CHAPTER PREVIEW",
+    "title":"Read Some Chapter Free",
+    "chapterlist":[
+        {
+            "id":1,
+            "img":"../../images/chapter-preview/1.jpg",
+            "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum voluptas dicta fugiat animi voluptatum quibusdam?"
+        },
+        {
+            "id":2,
+            "img":"../../images/chapter-preview/2.jpg",
+            "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum voluptas dicta fugiat animi voluptatum quibusdam?"
+        },
+        {
+            "id":3,
+            "img":"../../images/chapter-preview/3.jpg",
+            "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum voluptas dicta fugiat animi voluptatum quibusdam?"
+        },
+        {
+            "id":4,
+            "img":"../../images/chapter-preview/4.jpg",
+            "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum voluptas dicta fugiat animi voluptatum quibusdam?"
+        },
+        {
+            "id":5,
+            "img":"../../images/chapter-preview/5.jpg",
+            "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum voluptas dicta fugiat animi voluptatum quibusdam?"
+        }
+        
+    ]
+}
